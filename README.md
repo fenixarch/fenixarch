@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @fenixarch
 - 👀 I’m interested in dev web apps
-- 🌱 I’m currently learning php and js
-- 📫 How to reach me: type to me e-mail fenixoffc@gmail.com or fenixoffc@mail.ru or my telegram https://t.me/fenixoffc_us
+- 🌱 I’m currently learning next js
